@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">13btw</h1>
-<p align="center"><i>Простые решения для сложных задач.</i></p>
+<p align="center"><i>Simple solutions for complex problems.</i></p>
 
 <p align="center">
   <a href="mailto:thirteenbtw@gmail.com"><img src="https://img.shields.io/badge/Email-1c1a17.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
