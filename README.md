@@ -2,7 +2,7 @@
   <img src="banner.svg" width="80%" alt="thirteenbtw">
 </div>
 
-<h1 align="center">thirteenbtw</h1>
+<h1 align="center">13btw</h1>
 <p align="center"><i>Простые решения для сложных задач.</i></p>
 
 <p align="center">
