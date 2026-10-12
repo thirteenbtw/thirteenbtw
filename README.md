@@ -1,4 +1,4 @@
-<img width="1200" height="420" alt="banner-animated" src="https://github.com/user-attachments/assets/eebe74df-16e9-4cc9-bbaf-7e444f89a3cf" />
+<img width="1200" height="420" alt="banner-static-animated" src="https://github.com/user-attachments/assets/f0991b64-1eb4-4fee-8dbd-4f819761e8a7" />
 
 <h1 align="center">13btw</h1>
 <p align="center"><i>Simple solutions for complex problems.</i></p>
