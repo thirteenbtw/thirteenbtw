@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="banner.svg" width="80%" alt="thirteenbtw">
-</div>
+<img width="1200" height="420" alt="banner-animated" src="https://github.com/user-attachments/assets/eebe74df-16e9-4cc9-bbaf-7e444f89a3cf" />
 
 <h1 align="center">13btw</h1>
 <p align="center"><i>Simple solutions for complex problems.</i></p>
